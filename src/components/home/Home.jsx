@@ -18,6 +18,7 @@ const FAQItem = ({ question, answer }) => {
   );
 };
 
+/* fix-title-index modificacion  */
 const Home = () => {
   return (
     <>
