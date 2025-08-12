@@ -17,7 +17,7 @@ const FAQItem = ({ question, answer }) => {
     </div>
   );
 };
-
+/* Cambio de prueba en rama feature  */
 const Home = () => {
   return (
     <>
